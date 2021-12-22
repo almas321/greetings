@@ -1,0 +1,5 @@
+greeting = [
+    "helo",
+    "hi",
+    "hey"
+]
