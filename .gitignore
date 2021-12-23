@@ -1,0 +1,9 @@
+.gitignore
+.idea/.gitignore/
+main.py
+scratch.py
+.idea/git_learning.iml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/inspectionProfiles
+
